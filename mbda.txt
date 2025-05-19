@@ -1,0 +1,11 @@
+I’m grateful to have had the opportunity to attend work experience last week at MBDA and want to thank the organisers along with my team for making it a fantastic week.  
+
+Throughout the time, we enjoyed a range of talks from different areas of the business. I was particularly fascinated by a talk on image processing. It was great to learn more about the theory behind popular technologies like Nvidia DLSS where I’d heard the term convolutional neural network but had never further explored. We heard about convolutions as a mathematical concept and their use in applications like edge detection, as well as the unique challenges of (and techniques to optimise) running software in the low processing power environment onboard a missile.  
+
+We also had an eye-opening talk, challenging us to rethink the traditional, chaotic “brainstorming approach to innovation and brainstorming and instead to take a logical and scientific approach. A key insight from the speaker was how truly innovative ideas are often funny or laughed at but instead of discarding them, we should analyse and embrace them.  
+
+Cyber security was another highlight as it inspired me, helping me see the real-world application of theory I was learning in Rome, and I’m continuing my research into encryption as I’ve begun reading “The Code Book” by Simon Singh.  
+
+Between our talks we were focussing on a group project, with the goal of presenting to executives at the end of the week. I’m proud to say that our project – the aimed at neutralising an enemy satellite while reducing space debris – was voted as the winner by the executives.  
+
+Overall it was a great experience and I’m excited to keep learning. 
